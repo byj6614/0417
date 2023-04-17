@@ -8,6 +8,6 @@ namespace _0417
 {
     internal class Baeyoung
     {
-        //LootingFPS 
+        //만들고 싶은 장르 : LootingFPS 
     }
 }
